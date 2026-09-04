@@ -1,0 +1,7 @@
+C:\Users\USER\Music\LabTask_1\bin\Debug\LabTask_1.exe.config
+C:\Users\USER\Music\LabTask_1\bin\Debug\LabTask_1.exe
+C:\Users\USER\Music\LabTask_1\bin\Debug\LabTask_1.pdb
+C:\Users\USER\Music\LabTask_1\obj\Debug\LabTask_1.csproj.AssemblyReference.cache
+C:\Users\USER\Music\LabTask_1\obj\Debug\LabTask_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\LabTask_1\obj\Debug\LabTask_1.exe
+C:\Users\USER\Music\LabTask_1\obj\Debug\LabTask_1.pdb

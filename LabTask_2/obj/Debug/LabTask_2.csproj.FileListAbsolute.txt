@@ -1,0 +1,6 @@
+C:\Users\USER\Music\LabTask_2\bin\Debug\LabTask_2.exe.config
+C:\Users\USER\Music\LabTask_2\bin\Debug\LabTask_2.exe
+C:\Users\USER\Music\LabTask_2\bin\Debug\LabTask_2.pdb
+C:\Users\USER\Music\LabTask_2\obj\Debug\LabTask_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\LabTask_2\obj\Debug\LabTask_2.exe
+C:\Users\USER\Music\LabTask_2\obj\Debug\LabTask_2.pdb

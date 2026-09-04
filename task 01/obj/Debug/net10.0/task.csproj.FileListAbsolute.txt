@@ -1,0 +1,14 @@
+D:\PDF\OOP02\task\bin\Debug\net10.0\task.exe
+D:\PDF\OOP02\task\bin\Debug\net10.0\task.deps.json
+D:\PDF\OOP02\task\bin\Debug\net10.0\task.runtimeconfig.json
+D:\PDF\OOP02\task\bin\Debug\net10.0\task.dll
+D:\PDF\OOP02\task\bin\Debug\net10.0\task.pdb
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.AssemblyInfoInputs.cache
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.AssemblyInfo.cs
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.csproj.CoreCompileInputs.cache
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.dll
+D:\PDF\OOP02\task\obj\Debug\net10.0\refint\task.dll
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.pdb
+D:\PDF\OOP02\task\obj\Debug\net10.0\task.genruntimeconfig.cache
+D:\PDF\OOP02\task\obj\Debug\net10.0\ref\task.dll
